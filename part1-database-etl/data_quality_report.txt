@@ -1,0 +1,9 @@
+customers_records_read: 26
+products_records_read: 20
+sales_records_read: 41
+customers_duplicates_removed: 1
+customers_missing_removed: 5
+products_duplicates_removed: 0
+sales_duplicates_removed: 1
+sales_invalid_records_removed: 5
+load_error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
