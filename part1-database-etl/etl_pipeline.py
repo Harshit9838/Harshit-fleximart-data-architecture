@@ -1,3 +1,5 @@
+# Part 1 ETL Pipeline – Final version
+
 import pandas as pd
 import mysql.connector
 from mysql.connector import Error
